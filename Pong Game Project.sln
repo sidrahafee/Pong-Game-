@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pong Game Project", "Pong Game Project\Pong Game Project.pyproj", "{CE22EFB0-7967-4A8B-B388-014C06644497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE22EFB0-7967-4A8B-B388-014C06644497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE22EFB0-7967-4A8B-B388-014C06644497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60242C0E-13C9-4326-B00A-52A8EA7F78E3}
+	EndGlobalSection
+EndGlobal
